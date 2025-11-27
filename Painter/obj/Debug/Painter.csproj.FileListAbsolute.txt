@@ -1,0 +1,11 @@
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\Painter\bin\Debug\Painter.exe.config
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\Painter\bin\Debug\Painter.exe
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\Painter\bin\Debug\Painter.pdb
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\Painter\obj\Debug\Painter.csproj.AssemblyReference.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\Painter\obj\Debug\Painter.Form1.resources
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\Painter\obj\Debug\Painter.Properties.Resources.resources
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\Painter\obj\Debug\Painter.csproj.GenerateResource.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\Painter\obj\Debug\Painter.csproj.CoreCompileInputs.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\Painter\obj\Debug\Painter.exe
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\Painter\obj\Debug\Painter.pdb
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\Painter\obj\Debug\Painter.exe.config
