@@ -1,0 +1,14 @@
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DunyaNufusArtisi\bin\Debug\net8.0\DunyaNufusArtisi.exe
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DunyaNufusArtisi\bin\Debug\net8.0\DunyaNufusArtisi.deps.json
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DunyaNufusArtisi\bin\Debug\net8.0\DunyaNufusArtisi.runtimeconfig.json
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DunyaNufusArtisi\bin\Debug\net8.0\DunyaNufusArtisi.dll
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DunyaNufusArtisi\bin\Debug\net8.0\DunyaNufusArtisi.pdb
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DunyaNufusArtisi\obj\Debug\net8.0\DunyaNufusArtisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DunyaNufusArtisi\obj\Debug\net8.0\DunyaNufusArtisi.AssemblyInfoInputs.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DunyaNufusArtisi\obj\Debug\net8.0\DunyaNufusArtisi.AssemblyInfo.cs
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DunyaNufusArtisi\obj\Debug\net8.0\DunyaNufusArtisi.csproj.CoreCompileInputs.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DunyaNufusArtisi\obj\Debug\net8.0\DunyaNufusArtisi.dll
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DunyaNufusArtisi\obj\Debug\net8.0\refint\DunyaNufusArtisi.dll
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DunyaNufusArtisi\obj\Debug\net8.0\DunyaNufusArtisi.pdb
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DunyaNufusArtisi\obj\Debug\net8.0\DunyaNufusArtisi.genruntimeconfig.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DunyaNufusArtisi\obj\Debug\net8.0\ref\DunyaNufusArtisi.dll
