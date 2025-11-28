@@ -1,22 +1,3 @@
-# 🎓 Görsel Programlama Dersi - Proje Portfolyosu
+💰 Tasarruf Oranı Hesaplayıcı (Savings Calculator)
 
-Bu depo (repository), Üniversite eğitimim boyunca **Görsel Programlama** dersi kapsamında geliştirdiğim uygulamaları, ödevleri ve laboratuvar çalışmalarını içermektedir.
-
-Tüm projeler **C#** dili ve **.NET Framework (Windows Forms)** kullanılarak geliştirilmiştir.
-
-## 👤 Öğrenci Bilgileri
-
-* **Adı Soyadı:** Yahya Cemal AKYÜZ
-* **Bölüm:** INFORMATION SYSTEMS AND TECHNOLOGIES
-
-## 📂 Projeler Listesi
-
-Bu depoda yer alan projelerin kısa özetleri aşağıdadır. Detaylı bilgi için ilgili projenin klasörüne gidebilirsiniz.
-
-
-## 🛠️ Kullanılan Teknolojiler ve Araçlar
-
-* **Programlama Dili:** C#
-* **Framework:** .NET Framework (Windows Forms Application)
-* **IDE:** Microsoft Visual Studio
-* **Versiyon Kontrol:** Git & GitHub
+Bu proje, Visual Programming dersi çalışmaları kapsamında geliştirilmiş, kullanıcının aylık gelir ve giderlerine göre tasarruf alışkanlıklarını analiz eden bir C# Konsol Uygulamasıdır.
