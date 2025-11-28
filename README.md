@@ -9,11 +9,6 @@ Tüm projeler **C#** dili ve **.NET Framework (Windows Forms)** kullanılarak ge
 * **Adı Soyadı:** Yahya Cemal AKYÜZ
 * **Bölüm:** INFORMATION SYSTEMS AND TECHNOLOGIES
 
-## 📂 Projeler Listesi
-
-Bu depoda yer alan projelerin kısa özetleri aşağıdadır. Detaylı bilgi için ilgili projenin klasörüne gidebilirsiniz.
-
-
 ## 🛠️ Kullanılan Teknolojiler ve Araçlar
 
 * **Programlama Dili:** C#
