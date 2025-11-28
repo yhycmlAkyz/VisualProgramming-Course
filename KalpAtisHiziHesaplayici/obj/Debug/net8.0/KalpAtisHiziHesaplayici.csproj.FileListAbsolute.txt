@@ -1,0 +1,14 @@
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\KalpAtisHiziHesaplayici\bin\Debug\net8.0\KalpAtisHiziHesaplayici.exe
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\KalpAtisHiziHesaplayici\bin\Debug\net8.0\KalpAtisHiziHesaplayici.deps.json
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\KalpAtisHiziHesaplayici\bin\Debug\net8.0\KalpAtisHiziHesaplayici.runtimeconfig.json
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\KalpAtisHiziHesaplayici\bin\Debug\net8.0\KalpAtisHiziHesaplayici.dll
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\KalpAtisHiziHesaplayici\bin\Debug\net8.0\KalpAtisHiziHesaplayici.pdb
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\KalpAtisHiziHesaplayici\obj\Debug\net8.0\KalpAtisHiziHesaplayici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\KalpAtisHiziHesaplayici\obj\Debug\net8.0\KalpAtisHiziHesaplayici.AssemblyInfoInputs.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\KalpAtisHiziHesaplayici\obj\Debug\net8.0\KalpAtisHiziHesaplayici.AssemblyInfo.cs
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\KalpAtisHiziHesaplayici\obj\Debug\net8.0\KalpAtisHiziHesaplayici.csproj.CoreCompileInputs.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\KalpAtisHiziHesaplayici\obj\Debug\net8.0\KalpAtisHiziHesaplayici.dll
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\KalpAtisHiziHesaplayici\obj\Debug\net8.0\refint\KalpAtisHiziHesaplayici.dll
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\KalpAtisHiziHesaplayici\obj\Debug\net8.0\KalpAtisHiziHesaplayici.pdb
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\KalpAtisHiziHesaplayici\obj\Debug\net8.0\KalpAtisHiziHesaplayici.genruntimeconfig.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\KalpAtisHiziHesaplayici\obj\Debug\net8.0\ref\KalpAtisHiziHesaplayici.dll
