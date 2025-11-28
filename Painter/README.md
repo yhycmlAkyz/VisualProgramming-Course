@@ -1,2 +1,1 @@
-# Microcontroller-Works
-Mikrodenetleyiciler dersi için Okul Ödevleri ve Genel Çalışmalar
+Görsel Programlama Dersi için bir Paint uygulaması.
