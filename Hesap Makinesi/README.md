@@ -1,3 +1,10 @@
-# 🎨 Painter - Çizim Uygulaması
+# 🧮 Hesap Makinesi
 
-Bu proje, kullanıcıların bilgisayar faresi veya dokunmatik ekran kullanarak serbest çizim yapabilmelerini sağlayan bir masaüstü uygulamasıdır. Kullanıcı dostu arayüzü ile renk ve fırça boyutu seçimi yapılabilir.
+Günlük matematiksel işlemleri hızlı ve hatasız bir şekilde yapmak için geliştirilmiş, grafik arayüze sahip bir hesap makinesi uygulamasıdır.
+
+## 🚀 Özellikler
+
+* **Dört İşlem:** Toplama, Çıkarma, Çarpma ve Bölme.
+* **Hata Kontrolü:** Sıfıra bölme hatası gibi durumlarda kullanıcıyı uyarma.
+* **Ondalıklı İşlemler:** Virgüllü sayılarla hesaplama yapabilme.
+* **Temizleme (C):** Ekranı sıfırlama fonksiyonu.
