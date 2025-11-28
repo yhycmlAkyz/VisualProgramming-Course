@@ -1,0 +1,14 @@
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\ButceAnalizi\bin\Debug\net8.0\ButceAnalizi.exe
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\ButceAnalizi\bin\Debug\net8.0\ButceAnalizi.deps.json
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\ButceAnalizi\bin\Debug\net8.0\ButceAnalizi.runtimeconfig.json
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\ButceAnalizi\bin\Debug\net8.0\ButceAnalizi.dll
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\ButceAnalizi\bin\Debug\net8.0\ButceAnalizi.pdb
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\ButceAnalizi\obj\Debug\net8.0\ButceAnalizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\ButceAnalizi\obj\Debug\net8.0\ButceAnalizi.AssemblyInfoInputs.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\ButceAnalizi\obj\Debug\net8.0\ButceAnalizi.AssemblyInfo.cs
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\ButceAnalizi\obj\Debug\net8.0\ButceAnalizi.csproj.CoreCompileInputs.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\ButceAnalizi\obj\Debug\net8.0\ButceAnalizi.dll
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\ButceAnalizi\obj\Debug\net8.0\refint\ButceAnalizi.dll
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\ButceAnalizi\obj\Debug\net8.0\ButceAnalizi.pdb
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\ButceAnalizi\obj\Debug\net8.0\ButceAnalizi.genruntimeconfig.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\ButceAnalizi\obj\Debug\net8.0\ref\ButceAnalizi.dll
