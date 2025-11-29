@@ -1,0 +1,14 @@
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\CarpimTablosuOgretici\bin\Debug\net8.0\CarpimTablosuOgretici.exe
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\CarpimTablosuOgretici\bin\Debug\net8.0\CarpimTablosuOgretici.deps.json
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\CarpimTablosuOgretici\bin\Debug\net8.0\CarpimTablosuOgretici.runtimeconfig.json
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\CarpimTablosuOgretici\bin\Debug\net8.0\CarpimTablosuOgretici.dll
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\CarpimTablosuOgretici\bin\Debug\net8.0\CarpimTablosuOgretici.pdb
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\CarpimTablosuOgretici\obj\Debug\net8.0\CarpimTablosuOgretici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\CarpimTablosuOgretici\obj\Debug\net8.0\CarpimTablosuOgretici.AssemblyInfoInputs.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\CarpimTablosuOgretici\obj\Debug\net8.0\CarpimTablosuOgretici.AssemblyInfo.cs
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\CarpimTablosuOgretici\obj\Debug\net8.0\CarpimTablosuOgretici.csproj.CoreCompileInputs.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\CarpimTablosuOgretici\obj\Debug\net8.0\CarpimTablosuOgretici.dll
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\CarpimTablosuOgretici\obj\Debug\net8.0\refint\CarpimTablosuOgretici.dll
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\CarpimTablosuOgretici\obj\Debug\net8.0\CarpimTablosuOgretici.pdb
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\CarpimTablosuOgretici\obj\Debug\net8.0\CarpimTablosuOgretici.genruntimeconfig.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\CarpimTablosuOgretici\obj\Debug\net8.0\ref\CarpimTablosuOgretici.dll
