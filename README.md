@@ -23,7 +23,7 @@ Tüm projeler **C#** dili ve **.NET Framework (Windows Forms)** kullanılarak ge
 * **3.Ünite =** ButceAnalizi
 * **4.Ünite =** KalpAtisHiziHesaplayici
 * **5.Ünite =** DunyaNufusArtisi
-* **6.Ünite =** 
+* **6.Ünite =** Diamond Display
 * **7.Ünite =**
 * **8.Ünite =**
 * **9.Ünite =**
