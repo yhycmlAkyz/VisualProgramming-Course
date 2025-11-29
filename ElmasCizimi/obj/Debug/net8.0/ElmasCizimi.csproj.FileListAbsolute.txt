@@ -1,0 +1,14 @@
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\ElmasCizimi\bin\Debug\net8.0\ElmasCizimi.exe
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\ElmasCizimi\bin\Debug\net8.0\ElmasCizimi.deps.json
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\ElmasCizimi\bin\Debug\net8.0\ElmasCizimi.runtimeconfig.json
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\ElmasCizimi\bin\Debug\net8.0\ElmasCizimi.dll
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\ElmasCizimi\bin\Debug\net8.0\ElmasCizimi.pdb
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\ElmasCizimi\obj\Debug\net8.0\ElmasCizimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\ElmasCizimi\obj\Debug\net8.0\ElmasCizimi.AssemblyInfoInputs.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\ElmasCizimi\obj\Debug\net8.0\ElmasCizimi.AssemblyInfo.cs
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\ElmasCizimi\obj\Debug\net8.0\ElmasCizimi.csproj.CoreCompileInputs.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\ElmasCizimi\obj\Debug\net8.0\ElmasCizimi.dll
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\ElmasCizimi\obj\Debug\net8.0\refint\ElmasCizimi.dll
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\ElmasCizimi\obj\Debug\net8.0\ElmasCizimi.pdb
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\ElmasCizimi\obj\Debug\net8.0\ElmasCizimi.genruntimeconfig.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\ElmasCizimi\obj\Debug\net8.0\ref\ElmasCizimi.dll
