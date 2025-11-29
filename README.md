@@ -24,7 +24,7 @@ Tüm projeler **C#** dili ve **.NET Framework (Windows Forms)** kullanılarak ge
 * **4.Ünite =** KalpAtisHiziHesaplayici
 * **5.Ünite =** DunyaNufusArtisi
 * **6.Ünite =** Diamond Display
-* **7.Ünite =**
+* **7.Ünite =** CarpimTablosuOgretici
 * **8.Ünite =**
 * **9.Ünite =**
 * **10.Ünite =**
