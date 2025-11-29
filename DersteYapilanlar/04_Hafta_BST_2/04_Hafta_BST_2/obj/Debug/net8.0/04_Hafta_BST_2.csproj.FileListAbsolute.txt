@@ -1,0 +1,14 @@
+C:\Users\kemal\source\repos\04_Hafta_BST_2\04_Hafta_BST_2\bin\Debug\net8.0\04_Hafta_BST_2.exe
+C:\Users\kemal\source\repos\04_Hafta_BST_2\04_Hafta_BST_2\bin\Debug\net8.0\04_Hafta_BST_2.deps.json
+C:\Users\kemal\source\repos\04_Hafta_BST_2\04_Hafta_BST_2\bin\Debug\net8.0\04_Hafta_BST_2.runtimeconfig.json
+C:\Users\kemal\source\repos\04_Hafta_BST_2\04_Hafta_BST_2\bin\Debug\net8.0\04_Hafta_BST_2.dll
+C:\Users\kemal\source\repos\04_Hafta_BST_2\04_Hafta_BST_2\bin\Debug\net8.0\04_Hafta_BST_2.pdb
+C:\Users\kemal\source\repos\04_Hafta_BST_2\04_Hafta_BST_2\obj\Debug\net8.0\04_Hafta_BST_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemal\source\repos\04_Hafta_BST_2\04_Hafta_BST_2\obj\Debug\net8.0\04_Hafta_BST_2.AssemblyInfoInputs.cache
+C:\Users\kemal\source\repos\04_Hafta_BST_2\04_Hafta_BST_2\obj\Debug\net8.0\04_Hafta_BST_2.AssemblyInfo.cs
+C:\Users\kemal\source\repos\04_Hafta_BST_2\04_Hafta_BST_2\obj\Debug\net8.0\04_Hafta_BST_2.csproj.CoreCompileInputs.cache
+C:\Users\kemal\source\repos\04_Hafta_BST_2\04_Hafta_BST_2\obj\Debug\net8.0\04_Hafta_BST_2.dll
+C:\Users\kemal\source\repos\04_Hafta_BST_2\04_Hafta_BST_2\obj\Debug\net8.0\refint\04_Hafta_BST_2.dll
+C:\Users\kemal\source\repos\04_Hafta_BST_2\04_Hafta_BST_2\obj\Debug\net8.0\04_Hafta_BST_2.pdb
+C:\Users\kemal\source\repos\04_Hafta_BST_2\04_Hafta_BST_2\obj\Debug\net8.0\04_Hafta_BST_2.genruntimeconfig.cache
+C:\Users\kemal\source\repos\04_Hafta_BST_2\04_Hafta_BST_2\obj\Debug\net8.0\ref\04_Hafta_BST_2.dll

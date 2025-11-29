@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kemal\\source\\repos\\04_Hafta_BST_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{170C76BF-ED0E-4DD4-BA30-9A9D54B4A338}|04_Hafta_BST_2\\04_Hafta_BST_2.csproj|c:\\users\\kemal\\source\\repos\\04_hafta_bst_2\\04_hafta_bst_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170C76BF-ED0E-4DD4-BA30-9A9D54B4A338}|04_Hafta_BST_2\\04_Hafta_BST_2.csproj|solutionrelative:04_hafta_bst_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170C76BF-ED0E-4DD4-BA30-9A9D54B4A338}|04_Hafta_BST_2\\04_Hafta_BST_2.csproj|c:\\users\\kemal\\source\\repos\\04_hafta_bst_2\\04_hafta_bst_2\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170C76BF-ED0E-4DD4-BA30-9A9D54B4A338}|04_Hafta_BST_2\\04_Hafta_BST_2.csproj|solutionrelative:04_hafta_bst_2\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\kemal\\source\\repos\\04_Hafta_BST_2\\04_Hafta_BST_2\\Account.cs",
+              "RelativeDocumentMoniker": "04_Hafta_BST_2\\Account.cs",
+              "ToolTip": "C:\\Users\\kemal\\source\\repos\\04_Hafta_BST_2\\04_Hafta_BST_2\\Account.cs",
+              "RelativeToolTip": "04_Hafta_BST_2\\Account.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T11:02:58.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kemal\\source\\repos\\04_Hafta_BST_2\\04_Hafta_BST_2\\Program.cs",
+              "RelativeDocumentMoniker": "04_Hafta_BST_2\\Program.cs",
+              "ToolTip": "C:\\Users\\kemal\\source\\repos\\04_Hafta_BST_2\\04_Hafta_BST_2\\Program.cs",
+              "RelativeToolTip": "04_Hafta_BST_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:53:46.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

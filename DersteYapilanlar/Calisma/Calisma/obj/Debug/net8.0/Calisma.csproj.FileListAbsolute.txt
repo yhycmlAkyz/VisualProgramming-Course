@@ -1,0 +1,14 @@
+C:\Users\kemal\source\repos\Calisma\Calisma\bin\Debug\net8.0\Calisma.exe
+C:\Users\kemal\source\repos\Calisma\Calisma\bin\Debug\net8.0\Calisma.deps.json
+C:\Users\kemal\source\repos\Calisma\Calisma\bin\Debug\net8.0\Calisma.runtimeconfig.json
+C:\Users\kemal\source\repos\Calisma\Calisma\bin\Debug\net8.0\Calisma.dll
+C:\Users\kemal\source\repos\Calisma\Calisma\bin\Debug\net8.0\Calisma.pdb
+C:\Users\kemal\source\repos\Calisma\Calisma\obj\Debug\net8.0\Calisma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemal\source\repos\Calisma\Calisma\obj\Debug\net8.0\Calisma.AssemblyInfoInputs.cache
+C:\Users\kemal\source\repos\Calisma\Calisma\obj\Debug\net8.0\Calisma.AssemblyInfo.cs
+C:\Users\kemal\source\repos\Calisma\Calisma\obj\Debug\net8.0\Calisma.csproj.CoreCompileInputs.cache
+C:\Users\kemal\source\repos\Calisma\Calisma\obj\Debug\net8.0\Calisma.dll
+C:\Users\kemal\source\repos\Calisma\Calisma\obj\Debug\net8.0\refint\Calisma.dll
+C:\Users\kemal\source\repos\Calisma\Calisma\obj\Debug\net8.0\Calisma.pdb
+C:\Users\kemal\source\repos\Calisma\Calisma\obj\Debug\net8.0\Calisma.genruntimeconfig.cache
+C:\Users\kemal\source\repos\Calisma\Calisma\obj\Debug\net8.0\ref\Calisma.dll

@@ -1,0 +1,14 @@
+C:\Users\kemal\source\repos\05_hafta_BST_sınıf_2_01\05_hafta_BST_sınıf_2_01\bin\Debug\net8.0\05_hafta_BST_sınıf_2_01.exe
+C:\Users\kemal\source\repos\05_hafta_BST_sınıf_2_01\05_hafta_BST_sınıf_2_01\bin\Debug\net8.0\05_hafta_BST_sınıf_2_01.deps.json
+C:\Users\kemal\source\repos\05_hafta_BST_sınıf_2_01\05_hafta_BST_sınıf_2_01\bin\Debug\net8.0\05_hafta_BST_sınıf_2_01.runtimeconfig.json
+C:\Users\kemal\source\repos\05_hafta_BST_sınıf_2_01\05_hafta_BST_sınıf_2_01\bin\Debug\net8.0\05_hafta_BST_sınıf_2_01.dll
+C:\Users\kemal\source\repos\05_hafta_BST_sınıf_2_01\05_hafta_BST_sınıf_2_01\bin\Debug\net8.0\05_hafta_BST_sınıf_2_01.pdb
+C:\Users\kemal\source\repos\05_hafta_BST_sınıf_2_01\05_hafta_BST_sınıf_2_01\obj\Debug\net8.0\05_hafta_BST_sınıf_2_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemal\source\repos\05_hafta_BST_sınıf_2_01\05_hafta_BST_sınıf_2_01\obj\Debug\net8.0\05_hafta_BST_sınıf_2_01.AssemblyInfoInputs.cache
+C:\Users\kemal\source\repos\05_hafta_BST_sınıf_2_01\05_hafta_BST_sınıf_2_01\obj\Debug\net8.0\05_hafta_BST_sınıf_2_01.AssemblyInfo.cs
+C:\Users\kemal\source\repos\05_hafta_BST_sınıf_2_01\05_hafta_BST_sınıf_2_01\obj\Debug\net8.0\05_hafta_BST_sınıf_2_01.csproj.CoreCompileInputs.cache
+C:\Users\kemal\source\repos\05_hafta_BST_sınıf_2_01\05_hafta_BST_sınıf_2_01\obj\Debug\net8.0\05_hafta_BST_sınıf_2_01.dll
+C:\Users\kemal\source\repos\05_hafta_BST_sınıf_2_01\05_hafta_BST_sınıf_2_01\obj\Debug\net8.0\refint\05_hafta_BST_sınıf_2_01.dll
+C:\Users\kemal\source\repos\05_hafta_BST_sınıf_2_01\05_hafta_BST_sınıf_2_01\obj\Debug\net8.0\05_hafta_BST_sınıf_2_01.pdb
+C:\Users\kemal\source\repos\05_hafta_BST_sınıf_2_01\05_hafta_BST_sınıf_2_01\obj\Debug\net8.0\05_hafta_BST_sınıf_2_01.genruntimeconfig.cache
+C:\Users\kemal\source\repos\05_hafta_BST_sınıf_2_01\05_hafta_BST_sınıf_2_01\obj\Debug\net8.0\ref\05_hafta_BST_sınıf_2_01.dll

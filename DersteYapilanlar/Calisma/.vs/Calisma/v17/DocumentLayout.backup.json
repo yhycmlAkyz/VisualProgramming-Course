@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kemal\\source\\repos\\Calisma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C02E38B-610D-48A0-B972-5760571F759A}|Calisma\\Calisma.csproj|c:\\users\\kemal\\source\\repos\\calisma\\calisma\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C02E38B-610D-48A0-B972-5760571F759A}|Calisma\\Calisma.csproj|solutionrelative:calisma\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C02E38B-610D-48A0-B972-5760571F759A}|Calisma\\Calisma.csproj|c:\\users\\kemal\\source\\repos\\calisma\\calisma\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C02E38B-610D-48A0-B972-5760571F759A}|Calisma\\Calisma.csproj|solutionrelative:calisma\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\kemal\\source\\repos\\Calisma\\Calisma\\Student.cs",
+              "RelativeDocumentMoniker": "Calisma\\Student.cs",
+              "ToolTip": "C:\\Users\\kemal\\source\\repos\\Calisma\\Calisma\\Student.cs",
+              "RelativeToolTip": "Calisma\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T12:44:50.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\kemal\\source\\repos\\Calisma\\Calisma\\ogrenci.cs",
+              "RelativeDocumentMoniker": "Calisma\\ogrenci.cs",
+              "ToolTip": "C:\\Users\\kemal\\source\\repos\\Calisma\\Calisma\\ogrenci.cs",
+              "RelativeToolTip": "Calisma\\ogrenci.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwBsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T12:34:53.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
