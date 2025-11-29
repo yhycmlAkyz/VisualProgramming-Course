@@ -1,30 +1,10 @@
-# 🎓 Görsel Programlama Dersi - Proje Portfolyosu
+# 🎓 Bilgisayar Destekli Öğretim (CAI) - Çarpım Tablosu
 
-Bu depo (repository), Üniversite eğitimim boyunca **Görsel Programlama** dersi kapsamında geliştirdiğim uygulamaları, ödevleri ve laboratuvar çalışmalarını içermektedir.
+Bu proje, ilkokul öğrencilerinin çarpım tablosu yeteneklerini geliştirmelerine yardımcı olmak amacıyla geliştirilmiş etkileşimli bir **C# Konsol Uygulamasıdır**.
 
-Tüm projeler **C#** dili ve **.NET Framework (Windows Forms)** kullanılarak geliştirilmiştir.
-
-## 👤 Öğrenci Bilgileri
-
-* **Adı Soyadı:** Yahya Cemal AKYÜZ
-* **Bölüm:** INFORMATION SYSTEMS AND TECHNOLOGIES
-
-## 🛠️ Kullanılan Teknolojiler ve Araçlar
-
-* **Programlama Dili:** C#
-* **Framework:** .NET Framework (Windows Forms Application)
-* **IDE:** Microsoft Visual Studio
-* **Versiyon Kontrol:** Git & GitHub
-
-# Ünite Sırasına Göre Uygulama Sırası
-
-* **1.Ünite =** Painter
-* **2.Ünite =** Hesap Makinesi
-* **3.Ünite =** ButceAnalizi
-* **4.Ünite =** KalpAtisHiziHesaplayici
-* **5.Ünite =** DunyaNufusArtisi
-* **6.Ünite =** Diamond Display
-* **7.Ünite =** CarpimTablosuOgretici
-* **8.Ünite =**
-* **9.Ünite =**
-* **10.Ünite =**
+Algoritma şu adımları izler:
+1.  **Soru Üretimi:** `Random` sınıfı kullanılarak 1-9 arası iki pozitif tamsayı seçilir.
+2.  **Sorgulama:** Kullanıcıya "6 kere 7 kaçtır?" formatında soru sorulur.
+3.  **Kontrol Mekanizması:**
+    * **Doğru Cevap:** "Çok iyi!" mesajı verilir ve yeni bir soru üretilir.
+    * **Yanlış Cevap:** "Hayır. Lütfen tekrar deneyin." mesajı verilir ve öğrenci doğruyu bulana kadar aynı soru sorulmaya devam edilir.
