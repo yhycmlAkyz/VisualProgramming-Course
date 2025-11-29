@@ -15,3 +15,16 @@ Tüm projeler **C#** dili ve **.NET Framework (Windows Forms)** kullanılarak ge
 * **Framework:** .NET Framework (Windows Forms Application)
 * **IDE:** Microsoft Visual Studio
 * **Versiyon Kontrol:** Git & GitHub
+
+# Ünite Sırasına Göre Uygulama Sırası
+
+* **1.Ünite =** Painter
+* **2.Ünite =** Hesap Makinesi
+* **3.Ünite =** ButceAnalizi
+* **4.Ünite =** KalpAtisHiziHesaplayici
+* **5.Ünite =** DunyaNufusArtisi
+* **6.Ünite =** 
+* **7.Ünite =**
+* **8.Ünite =**
+* **9.Ünite =**
+* **10.Ünite =**
