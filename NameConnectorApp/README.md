@@ -1,6 +1,2 @@
-🔠 Name ConnectorBu konsol uygulaması, kullanıcıdan alınan metin verilerini işlemek, sıralamak ve biçimlendirmek amacıyla C# dili kullanılarak geliştirilmiştir.🚀 ÖzelliklerUygulama sırasıyla şu işlemleri gerçekleştirir:Veri Girişi: Kullanıcıdan 10 farklı isim talep eder.Dönüştürme (ToUpper): Girilen tüm isimleri otomatik olarak BÜYÜK HARFLERE dönüştürür.Azalan Sıralama (Descending): İsimleri Z'den A'ya sıralar ve aralarına virgül koyarak tek bir satırda gösterir.Artan Sıralama (Ascending): Aynı isimleri A'dan Z'ye sıralayarak yeniden görüntüler.🛠️ Kullanılan Metotlar ve MantıkBu projede System.Collections.Generic kütüphanesinden List<T> yapısı kullanılmıştır.ToUpper(): İsimlerin standartizasyonu için kullanıldı.Sort(): Listeyi alfabetik olarak sıralamak için kullanıldı.Reverse(): Sıralanmış listeyi tersine çevirerek "Azalan" veya tekrar "Artan" sıralama elde etmek için kullanıldı.String.Join(", ", liste): Listenin elemanlarını tek bir metin (string) haline getirmek ve aralarına virgül koymak için kullanıldı.💻 Örnek Çıktı[Z-A] Azalan Sıralama (Descending):
-ZEHRA, YAHYA, VELİ, KEMAL, CEMAL, BURAK, AHMET...
-
-[A-Z] Artan Sıralama (Ascending):
-AHMET, BURAK, CEMAL, KEMAL, VELİ, YAHYA, ZEHRA...
-👨‍💻 GeliştiriciYahya Cemal Akyüz
+## 🔠 Name Connector
+Bu konsol uygulaması, kullanıcıdan alınan metin verilerini işlemek, sıralamak ve biçimlendirmek amacıyla C# dili kullanılarak geliştirilmiştir.
