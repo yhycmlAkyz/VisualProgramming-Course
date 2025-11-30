@@ -1,0 +1,14 @@
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DiceRolling\bin\Debug\net8.0\DiceRolling.exe
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DiceRolling\bin\Debug\net8.0\DiceRolling.deps.json
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DiceRolling\bin\Debug\net8.0\DiceRolling.runtimeconfig.json
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DiceRolling\bin\Debug\net8.0\DiceRolling.dll
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DiceRolling\bin\Debug\net8.0\DiceRolling.pdb
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DiceRolling\obj\Debug\net8.0\DiceRolling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DiceRolling\obj\Debug\net8.0\DiceRolling.AssemblyInfoInputs.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DiceRolling\obj\Debug\net8.0\DiceRolling.AssemblyInfo.cs
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DiceRolling\obj\Debug\net8.0\DiceRolling.csproj.CoreCompileInputs.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DiceRolling\obj\Debug\net8.0\DiceRolling.dll
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DiceRolling\obj\Debug\net8.0\refint\DiceRolling.dll
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DiceRolling\obj\Debug\net8.0\DiceRolling.pdb
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DiceRolling\obj\Debug\net8.0\DiceRolling.genruntimeconfig.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DiceRolling\obj\Debug\net8.0\ref\DiceRolling.dll
