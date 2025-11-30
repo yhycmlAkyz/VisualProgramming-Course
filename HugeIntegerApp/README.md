@@ -1,30 +1,37 @@
-# 🎓 Görsel Programlama Dersi - Proje Portfolyosu
+# HugeInteger Class Implementation
 
-Bu depo (repository), Üniversite eğitimim boyunca **Görsel Programlama** dersi kapsamında geliştirdiğim uygulamaları, ödevleri ve laboratuvar çalışmalarını içermektedir.
+Bu proje, C# programlama dili kullanılarak geliştirilmiş, standart veri tiplerinin (int, long vb.) sınırlarını aşan çok büyük tamsayıları (40 basamağa kadar) saklamak ve bu sayılarla aritmetik işlemler yapmak için tasarlanmış özel bir sınıf yapısıdır.
 
-Tüm projeler **C#** dili ve **.NET Framework (Windows Forms)** kullanılarak geliştirilmiştir.
+## 🚀 Özellikler
 
-## 👤 Öğrenci Bilgileri
+Uygulama aşağıdaki temel fonksiyonları içerir:
 
-* **Adı Soyadı:** Yahya Cemal AKYÜZ
-* **Bölüm:** INFORMATION SYSTEMS AND TECHNOLOGIES
+* **Veri Girişi (Input):** String formatındaki sayıları karakter dizisine dönüştürür ve sayısal diziye (array) işler.
+* **Görüntüleme (ToString):** Sayı dizisini anlamlı bir String'e çevirir (Baştaki gereksiz sıfırları temizleyerek).
+* **Toplama (Add):** İki `HugeInteger` nesnesini toplar (Elde/Carry mantığı dahil).
+* **Çıkarma (Subtract):** İki `HugeInteger` nesnesini çıkarır (Ödünç alma/Borrow mantığı dahil). Negatif sonuçlar için `0` döner (Basit implementasyon).
+* **Karşılaştırma:** İki büyük sayıyı birbiriyle kıyaslar:
+    * `IsEqualTo` / `IsNotEqualTo`
+    * `IsGreaterThan` / `IsLessThan`
+    * `IsGreaterThanOrEqualTo` / `IsLessThanOrEqualTo`
+    * `IsZero`
 
-## 🛠️ Kullanılan Teknolojiler ve Araçlar
+## 💻 Kullanım Örneği
 
-* **Programlama Dili:** C#
-* **Framework:** .NET Framework (Windows Forms Application)
-* **IDE:** Microsoft Visual Studio
-* **Versiyon Kontrol:** Git & GitHub
+`Program.cs` içerisindeki test senaryosu aşağıdaki gibidir:
 
-# Ünite Sırasına Göre Uygulama Sırası
+```csharp
+HugeInteger sayi1 = new HugeInteger();
+HugeInteger sayi2 = new HugeInteger();
 
-* **1.Ünite =** Painter
-* **2.Ünite =** Hesap Makinesi
-* **3.Ünite =** Butce Analizi
-* **4.Ünite =** Kalp Atis Hizi Hesaplayici
-* **5.Ünite =** Dunya Nufus Artisi
-* **6.Ünite =** Diamond Display
-* **7.Ünite =** Carpim Tablosu Ogretici
-* **8.Ünite =** Dice Rolling
-* **9.Ünite =** Name Connector App
-* **10.Ünite =**
+// 1. Veri Girişi
+sayi1.Input("99999999999999999999");
+sayi2.Input("1");
+
+// 2. Toplama İşlemi
+HugeInteger toplam = sayi1.Add(sayi2);
+Console.WriteLine($"{sayi1} + {sayi2} = {toplam}");
+// Çıktı: 99999999999999999999 + 1 = 100000000000000000000
+
+// 3. Karşılaştırma
+bool isGreater = sayi1.IsGreaterThan(sayi2); // True
