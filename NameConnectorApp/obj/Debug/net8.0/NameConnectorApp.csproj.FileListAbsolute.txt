@@ -1,0 +1,14 @@
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\NameConnectorApp\bin\Debug\net8.0\NameConnectorApp.exe
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\NameConnectorApp\bin\Debug\net8.0\NameConnectorApp.deps.json
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\NameConnectorApp\bin\Debug\net8.0\NameConnectorApp.runtimeconfig.json
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\NameConnectorApp\bin\Debug\net8.0\NameConnectorApp.dll
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\NameConnectorApp\bin\Debug\net8.0\NameConnectorApp.pdb
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\NameConnectorApp\obj\Debug\net8.0\NameConnectorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\NameConnectorApp\obj\Debug\net8.0\NameConnectorApp.AssemblyInfoInputs.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\NameConnectorApp\obj\Debug\net8.0\NameConnectorApp.AssemblyInfo.cs
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\NameConnectorApp\obj\Debug\net8.0\NameConnectorApp.csproj.CoreCompileInputs.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\NameConnectorApp\obj\Debug\net8.0\NameConnectorApp.dll
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\NameConnectorApp\obj\Debug\net8.0\refint\NameConnectorApp.dll
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\NameConnectorApp\obj\Debug\net8.0\NameConnectorApp.pdb
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\NameConnectorApp\obj\Debug\net8.0\NameConnectorApp.genruntimeconfig.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\NameConnectorApp\obj\Debug\net8.0\ref\NameConnectorApp.dll
