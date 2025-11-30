@@ -25,6 +25,6 @@ Tüm projeler **C#** dili ve **.NET Framework (Windows Forms)** kullanılarak ge
 * **5.Ünite =** DunyaNufusArtisi
 * **6.Ünite =** Diamond Display
 * **7.Ünite =** CarpimTablosuOgretici
-* **8.Ünite =**
+* **8.Ünite =** DiceRolling
 * **9.Ünite =**
 * **10.Ünite =**
