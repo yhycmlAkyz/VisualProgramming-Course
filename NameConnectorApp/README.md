@@ -1,30 +1,6 @@
-# 🎓 Görsel Programlama Dersi - Proje Portfolyosu
+🔠 Name ConnectorBu konsol uygulaması, kullanıcıdan alınan metin verilerini işlemek, sıralamak ve biçimlendirmek amacıyla C# dili kullanılarak geliştirilmiştir.🚀 ÖzelliklerUygulama sırasıyla şu işlemleri gerçekleştirir:Veri Girişi: Kullanıcıdan 10 farklı isim talep eder.Dönüştürme (ToUpper): Girilen tüm isimleri otomatik olarak BÜYÜK HARFLERE dönüştürür.Azalan Sıralama (Descending): İsimleri Z'den A'ya sıralar ve aralarına virgül koyarak tek bir satırda gösterir.Artan Sıralama (Ascending): Aynı isimleri A'dan Z'ye sıralayarak yeniden görüntüler.🛠️ Kullanılan Metotlar ve MantıkBu projede System.Collections.Generic kütüphanesinden List<T> yapısı kullanılmıştır.ToUpper(): İsimlerin standartizasyonu için kullanıldı.Sort(): Listeyi alfabetik olarak sıralamak için kullanıldı.Reverse(): Sıralanmış listeyi tersine çevirerek "Azalan" veya tekrar "Artan" sıralama elde etmek için kullanıldı.String.Join(", ", liste): Listenin elemanlarını tek bir metin (string) haline getirmek ve aralarına virgül koymak için kullanıldı.💻 Örnek Çıktı[Z-A] Azalan Sıralama (Descending):
+ZEHRA, YAHYA, VELİ, KEMAL, CEMAL, BURAK, AHMET...
 
-Bu depo (repository), Üniversite eğitimim boyunca **Görsel Programlama** dersi kapsamında geliştirdiğim uygulamaları, ödevleri ve laboratuvar çalışmalarını içermektedir.
-
-Tüm projeler **C#** dili ve **.NET Framework (Windows Forms)** kullanılarak geliştirilmiştir.
-
-## 👤 Öğrenci Bilgileri
-
-* **Adı Soyadı:** Yahya Cemal AKYÜZ
-* **Bölüm:** INFORMATION SYSTEMS AND TECHNOLOGIES
-
-## 🛠️ Kullanılan Teknolojiler ve Araçlar
-
-* **Programlama Dili:** C#
-* **Framework:** .NET Framework (Windows Forms Application)
-* **IDE:** Microsoft Visual Studio
-* **Versiyon Kontrol:** Git & GitHub
-
-# Ünite Sırasına Göre Uygulama Sırası
-
-* **1.Ünite =** Painter
-* **2.Ünite =** Hesap Makinesi
-* **3.Ünite =** ButceAnalizi
-* **4.Ünite =** KalpAtisHiziHesaplayici
-* **5.Ünite =** DunyaNufusArtisi
-* **6.Ünite =** Diamond Display
-* **7.Ünite =** CarpimTablosuOgretici
-* **8.Ünite =** DiceRolling
-* **9.Ünite =**
-* **10.Ünite =**
+[A-Z] Artan Sıralama (Ascending):
+AHMET, BURAK, CEMAL, KEMAL, VELİ, YAHYA, ZEHRA...
+👨‍💻 GeliştiriciYahya Cemal Akyüz
