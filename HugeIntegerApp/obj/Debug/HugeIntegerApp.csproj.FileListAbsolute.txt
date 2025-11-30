@@ -1,0 +1,7 @@
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\HugeIntegerApp\bin\Debug\HugeIntegerApp.exe.config
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\HugeIntegerApp\bin\Debug\HugeIntegerApp.exe
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\HugeIntegerApp\bin\Debug\HugeIntegerApp.pdb
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\HugeIntegerApp\obj\Debug\HugeIntegerApp.csproj.AssemblyReference.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\HugeIntegerApp\obj\Debug\HugeIntegerApp.csproj.CoreCompileInputs.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\HugeIntegerApp\obj\Debug\HugeIntegerApp.exe
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\HugeIntegerApp\obj\Debug\HugeIntegerApp.pdb
