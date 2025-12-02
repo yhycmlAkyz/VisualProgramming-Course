@@ -28,3 +28,4 @@ Tüm projeler **C#** dili ve **.NET Framework (Windows Forms)** kullanılarak ge
 * **8.Ünite =** Dice Rolling
 * **9.Ünite =** Name Connector App
 * **10.Ünite =** Huge Integer App
+sa
