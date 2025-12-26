@@ -1,0 +1,7 @@
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\User-Defined Exceptions\bin\Debug\User-Defined Exceptions.exe.config
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\User-Defined Exceptions\bin\Debug\User-Defined Exceptions.exe
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\User-Defined Exceptions\bin\Debug\User-Defined Exceptions.pdb
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\User-Defined Exceptions\obj\Debug\User-Defined Exceptions.csproj.AssemblyReference.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\User-Defined Exceptions\obj\Debug\User-Defined Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\User-Defined Exceptions\obj\Debug\User-Defined Exceptions.exe
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\User-Defined Exceptions\obj\Debug\User-Defined Exceptions.pdb

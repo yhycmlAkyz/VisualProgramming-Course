@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kemal\\OneDrive\\Desktop\\\u00C7al\u0131\u015Fma dosyas\u0131\\User-Defined Exceptions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF8EC48-6343-4229-BD70-E71F6250E022}|User-Defined Exceptions.csproj|c:\\users\\kemal\\onedrive\\desktop\\\u00E7al\u0131\u015Fma dosyas\u0131\\user-defined exceptions\\negativenumberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF8EC48-6343-4229-BD70-E71F6250E022}|User-Defined Exceptions.csproj|solutionrelative:negativenumberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF8EC48-6343-4229-BD70-E71F6250E022}|User-Defined Exceptions.csproj|c:\\users\\kemal\\onedrive\\desktop\\\u00E7al\u0131\u015Fma dosyas\u0131\\user-defined exceptions\\squareroottest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF8EC48-6343-4229-BD70-E71F6250E022}|User-Defined Exceptions.csproj|solutionrelative:squareroottest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SquareRootTest.cs",
+              "DocumentMoniker": "C:\\Users\\kemal\\OneDrive\\Desktop\\\u00C7al\u0131\u015Fma dosyas\u0131\\User-Defined Exceptions\\SquareRootTest.cs",
+              "RelativeDocumentMoniker": "SquareRootTest.cs",
+              "ToolTip": "C:\\Users\\kemal\\OneDrive\\Desktop\\\u00C7al\u0131\u015Fma dosyas\u0131\\User-Defined Exceptions\\SquareRootTest.cs",
+              "RelativeToolTip": "SquareRootTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:07:43.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NegativeNumberException.cs",
+              "DocumentMoniker": "C:\\Users\\kemal\\OneDrive\\Desktop\\\u00C7al\u0131\u015Fma dosyas\u0131\\User-Defined Exceptions\\NegativeNumberException.cs",
+              "RelativeDocumentMoniker": "NegativeNumberException.cs",
+              "ToolTip": "C:\\Users\\kemal\\OneDrive\\Desktop\\\u00C7al\u0131\u015Fma dosyas\u0131\\User-Defined Exceptions\\NegativeNumberException.cs",
+              "RelativeToolTip": "NegativeNumberException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:07:28.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
