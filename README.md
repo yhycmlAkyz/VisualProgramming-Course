@@ -32,8 +32,8 @@ Tüm projeler **C#** dili ve **.NET Framework (Windows Forms)** kullanılarak ge
 # Sonrakiler:
 
 * **11.Ünite =** CommissionEmployee
-* **12.Ünite =** PayrollSystem
-* **13.Ünite =**
+* **12.Ünite =** PolymorphismTest, PayrollSystem
+* **13.Ünite =** 
 * **14.Ünite =**
 * **15.Ünite =**
 * **16.Ünite =**
