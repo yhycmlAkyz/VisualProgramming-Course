@@ -27,4 +27,5 @@ Tüm projeler **C#** dili ve **.NET Framework (Windows Forms)** kullanılarak ge
 * **7.Ünite =** Carpim Tablosu Ogretici
 * **8.Ünite =** Dice Rolling
 * **9.Ünite =** Name Connector App
-* **10.Ünite =** HugeIntegerApp
+* **10.Ünite =** Huge Integer App
+sa
