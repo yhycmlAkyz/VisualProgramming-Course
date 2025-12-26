@@ -33,7 +33,7 @@ Tüm projeler **C#** dili ve **.NET Framework (Windows Forms)** kullanılarak ge
 
 * **11.Ünite =** CommissionEmployee
 * **12.Ünite =** PolymorphismTest, PayrollSystem
-* **13.Ünite =** 
+* **13.Ünite =** DivideByZeroException, User-Defined Exceptions
 * **14.Ünite =**
 * **15.Ünite =**
 * **16.Ünite =**
