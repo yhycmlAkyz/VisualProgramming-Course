@@ -1,0 +1,8 @@
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\CommissionEmployee\bin\Debug\CommissionEmployee.exe.config
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\CommissionEmployee\bin\Debug\CommissionEmployee.exe
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\CommissionEmployee\bin\Debug\CommissionEmployee.pdb
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\CommissionEmployee\obj\Debug\CommissionEmployee.csproj.AssemblyReference.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\CommissionEmployee\obj\Debug\CommissionEmployee.csproj.CoreCompileInputs.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\CommissionEmployee\obj\Debug\CommissionEmployee.exe
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\CommissionEmployee\obj\Debug\CommissionEmployee.pdb
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\CommissionEmployee\obj\Debug\CommissionEmployee.exe.config

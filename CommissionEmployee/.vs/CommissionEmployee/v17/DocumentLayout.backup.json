@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kemal\\OneDrive\\Desktop\\\u00C7al\u0131\u015Fma dosyas\u0131\\CommissionEmployee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4596E614-C42A-4BAC-9830-7E8E0DEA999A}|CommissionEmployee.csproj|c:\\users\\kemal\\onedrive\\desktop\\\u00E7al\u0131\u015Fma dosyas\u0131\\commissionemployee\\commissionemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4596E614-C42A-4BAC-9830-7E8E0DEA999A}|CommissionEmployee.csproj|solutionrelative:commissionemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4596E614-C42A-4BAC-9830-7E8E0DEA999A}|CommissionEmployee.csproj|c:\\users\\kemal\\onedrive\\desktop\\\u00E7al\u0131\u015Fma dosyas\u0131\\commissionemployee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4596E614-C42A-4BAC-9830-7E8E0DEA999A}|CommissionEmployee.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommissionEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\kemal\\OneDrive\\Desktop\\\u00C7al\u0131\u015Fma dosyas\u0131\\CommissionEmployee\\CommissionEmployee.cs",
+              "RelativeDocumentMoniker": "CommissionEmployee.cs",
+              "ToolTip": "C:\\Users\\kemal\\OneDrive\\Desktop\\\u00C7al\u0131\u015Fma dosyas\u0131\\CommissionEmployee\\CommissionEmployee.cs",
+              "RelativeToolTip": "CommissionEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T11:00:44.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kemal\\OneDrive\\Desktop\\\u00C7al\u0131\u015Fma dosyas\u0131\\CommissionEmployee\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kemal\\OneDrive\\Desktop\\\u00C7al\u0131\u015Fma dosyas\u0131\\CommissionEmployee\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T10:41:44.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
