@@ -1,0 +1,7 @@
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DivideByZeroException\bin\Debug\DivideByZeroException.exe.config
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DivideByZeroException\bin\Debug\DivideByZeroException.exe
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DivideByZeroException\bin\Debug\DivideByZeroException.pdb
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DivideByZeroException\obj\Debug\DivideByZeroException.csproj.AssemblyReference.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DivideByZeroException\obj\Debug\DivideByZeroException.csproj.CoreCompileInputs.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DivideByZeroException\obj\Debug\DivideByZeroException.exe
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\DivideByZeroException\obj\Debug\DivideByZeroException.pdb
