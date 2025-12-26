@@ -16,7 +16,7 @@ Tüm projeler **C#** dili ve **.NET Framework (Windows Forms)** kullanılarak ge
 * **IDE:** Microsoft Visual Studio
 * **Versiyon Kontrol:** Git & GitHub
 
-# Ünite Sırasına Göre Uygulama Sırası
+# İlk 10 Ünite:
 
 * **1.Ünite =** Painter
 * **2.Ünite =** Hesap Makinesi
@@ -28,4 +28,15 @@ Tüm projeler **C#** dili ve **.NET Framework (Windows Forms)** kullanılarak ge
 * **8.Ünite =** Dice Rolling
 * **9.Ünite =** Name Connector App
 * **10.Ünite =** Huge Integer App
-sa
+
+# Sonrakiler:
+
+* **11.Ünite =** CommissionEmployee
+* **12.Ünite =**
+* **13.Ünite =**
+* **14.Ünite =**
+* **15.Ünite =**
+* **16.Ünite =**
+* **17.Ünite =**
+* **18.Ünite =**
+
