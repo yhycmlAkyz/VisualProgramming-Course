@@ -1,0 +1,8 @@
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\PolymorphismTest\bin\Debug\PolymorphismTest.exe.config
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\PolymorphismTest\bin\Debug\PolymorphismTest.exe
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\PolymorphismTest\bin\Debug\PolymorphismTest.pdb
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\PolymorphismTest\obj\Debug\PolymorphismTest.csproj.AssemblyReference.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\PolymorphismTest\obj\Debug\PolymorphismTest.csproj.CoreCompileInputs.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\PolymorphismTest\obj\Debug\PolymorphismTest.exe
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\PolymorphismTest\obj\Debug\PolymorphismTest.pdb
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\PolymorphismTest\obj\Debug\PolymorphismTest.exe.config

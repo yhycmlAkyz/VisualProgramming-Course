@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kemal\\OneDrive\\Desktop\\\u00C7al\u0131\u015Fma dosyas\u0131\\PolymorphismTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA2B045-67A6-4DF5-9055-D6FD80788B8D}|PolymorphismTest.csproj|c:\\users\\kemal\\onedrive\\desktop\\\u00E7al\u0131\u015Fma dosyas\u0131\\polymorphismtest\\basepluscommissionemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA2B045-67A6-4DF5-9055-D6FD80788B8D}|PolymorphismTest.csproj|solutionrelative:basepluscommissionemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA2B045-67A6-4DF5-9055-D6FD80788B8D}|PolymorphismTest.csproj|c:\\users\\kemal\\onedrive\\desktop\\\u00E7al\u0131\u015Fma dosyas\u0131\\polymorphismtest\\polymorphismtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA2B045-67A6-4DF5-9055-D6FD80788B8D}|PolymorphismTest.csproj|solutionrelative:polymorphismtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA2B045-67A6-4DF5-9055-D6FD80788B8D}|PolymorphismTest.csproj|c:\\users\\kemal\\onedrive\\desktop\\\u00E7al\u0131\u015Fma dosyas\u0131\\polymorphismtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA2B045-67A6-4DF5-9055-D6FD80788B8D}|PolymorphismTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PolymorphismTest.cs",
+              "DocumentMoniker": "C:\\Users\\kemal\\OneDrive\\Desktop\\\u00C7al\u0131\u015Fma dosyas\u0131\\PolymorphismTest\\PolymorphismTest.cs",
+              "RelativeDocumentMoniker": "PolymorphismTest.cs",
+              "ToolTip": "C:\\Users\\kemal\\OneDrive\\Desktop\\\u00C7al\u0131\u015Fma dosyas\u0131\\PolymorphismTest\\PolymorphismTest.cs",
+              "RelativeToolTip": "PolymorphismTest.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T11:26:42.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasePlusCommissionEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\kemal\\OneDrive\\Desktop\\\u00C7al\u0131\u015Fma dosyas\u0131\\PolymorphismTest\\BasePlusCommissionEmployee.cs",
+              "RelativeDocumentMoniker": "BasePlusCommissionEmployee.cs",
+              "ToolTip": "C:\\Users\\kemal\\OneDrive\\Desktop\\\u00C7al\u0131\u015Fma dosyas\u0131\\PolymorphismTest\\BasePlusCommissionEmployee.cs",
+              "RelativeToolTip": "BasePlusCommissionEmployee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T11:26:05.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kemal\\OneDrive\\Desktop\\\u00C7al\u0131\u015Fma dosyas\u0131\\PolymorphismTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kemal\\OneDrive\\Desktop\\\u00C7al\u0131\u015Fma dosyas\u0131\\PolymorphismTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T11:24:49.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
