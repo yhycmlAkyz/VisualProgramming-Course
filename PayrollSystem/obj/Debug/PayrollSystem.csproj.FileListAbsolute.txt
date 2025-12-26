@@ -1,0 +1,7 @@
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\PayrollSystem\obj\Debug\PayrollSystem.csproj.AssemblyReference.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\PayrollSystem\obj\Debug\PayrollSystem.csproj.CoreCompileInputs.cache
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\PayrollSystem\obj\Debug\PayrollSystem.exe
+C:\Users\kemal\OneDrive\Desktop\Çalışma dosyası\PayrollSystem\obj\Debug\PayrollSystem.pdb
